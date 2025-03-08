@@ -1,5 +1,17 @@
 [
   {
+    "createdAt": "2024-09-20T06:06:50.000Z",
+    "downloads": 42326,
+    "modelId": "ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4",
+    "tags": [
+      "chat",
+      "text-generation",
+      "en",
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  { 
     "createdAt": "2024-09-27T09:15:37.000Z",
     "downloads": 65101,
     "modelId": "taobao-mnn/deepseek-llm-7b-chat-MNN",
